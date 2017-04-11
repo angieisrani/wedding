@@ -1,0 +1,6 @@
+{
+  "name": "wedding",
+  "dependencies": {
+    "sleep": "~5.1.1"
+  }
+}
