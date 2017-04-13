@@ -6,12 +6,14 @@ var sleep = require("sleep");
 Lib.Logs.logPhase();
 sleep.sleep(step);
 
-Lib.Logs.title("SEEKING APPROVAL");
+Lib.Logs.title("SEEK APPROVAL");
 sleep.sleep(step);
 
-console.log("   Dowloading cookbooks...");
+console.log("   Purchasing round-trip ticket to LA...");
 sleep.sleep(step);
-console.log("   Purchasing tickets to LA...");
+//console.log("   Warning: Departing and returning flights too close in time...");
+//sleep.sleep(step);
+console.log("   Apprehending Sonia's phone...");
 sleep.sleep(chapter);
 
 Lib.Logs.bottom();
